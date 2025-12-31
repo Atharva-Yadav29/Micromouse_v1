@@ -36,7 +36,7 @@ The robot is built around a custom PCB that integrates power management, motor d
 </details>
 
 ### 🔋 PCB Design
-The PCB was designed in [KiCad / Altium / Eagle]. It is a [2-layer / 4-layer] board with surface mount components.
+The PCB was designed in KiCad. It is a 2-layer board with surface mount components.
 
 | Top Layer | Bottom Layer | Schematic |
 | :---: | :---: | :---: |
