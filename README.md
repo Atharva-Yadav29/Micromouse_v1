@@ -40,7 +40,7 @@ The PCB was designed in [KiCad / Altium / Eagle]. It is a [2-layer / 4-layer] bo
 
 | Top Layer | Bottom Layer | 3D Render |
 | :---: | :---: | :---: |
-| <img src="assets/pcb_top.jpeg" width="250"> | <img src="assets/pcb_bottom.jpeg" width="250"> | <img src="assets/pcb_3d.jpeg" width="250"> |
+| (.pcb_top.jpeg) | (.pcb_bottom.jpeg) | <img src="assets/pcb_3d.jpeg" width="250"> |
 
 ### 🛠 Bill of Materials (Highlights)
 
