@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="assets/bot_render.png" alt="Micromouse Robot Design" width="600">
+  <img src="bot.jpeg" alt="Micromouse Robot Design" width="600">
   <br>
   <i>Current iteration of [Mickey]</i>
 </p>
@@ -38,9 +38,9 @@ The robot is built around a custom PCB that integrates power management, motor d
 ### 🔋 PCB Design
 The PCB was designed in [KiCad / Altium / Eagle]. It is a [2-layer / 4-layer] board with surface mount components.
 
-| Top Layer | Bottom Layer | 3D Render |
+| Top Layer | Bottom Layer | Schematic |
 | :---: | :---: | :---: |
-| <img src="pcb_top.jpeg" width="250"> | <img src="pcb_bottom.jpeg" width="250"> | <img src="pcb_3d.jpeg" width="250"> |
+| <img src="pcb_top.jpeg" width="250"> | <img src="pcb_bottom.jpeg" width="250"> | <img src="Schematic.jpeg" width="250"> |
 
 ### 🛠 Bill of Materials (Highlights)
 
